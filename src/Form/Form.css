@@ -1,0 +1,29 @@
+.Form{
+    background-color: #ccdbdc ;
+    padding: 25px;
+    min-width: 500px;
+}
+
+.Instructions{
+    font-size: 28px;
+    color: #1b4965;
+}
+
+textarea{
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
+
+button{
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: #62b6cb;
+}
+
+.botonera{
+    text-align: right;
+}
